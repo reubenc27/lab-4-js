@@ -1,0 +1,37 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2025,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+        "image": "../images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 240,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "../images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup", "Strawberry Pieces", "Vanilla Base", "Chocolate Syrup"],
+        "image": "../images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Lime Candy",
+        "calories": 150,
+        "type": "sherbert",
+        "ingredients": ["Lime Syrup", "Candy Pieces", "Sherbert Base"],
+        "image": "../images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Chocolate Chip Cookie Dough",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Cookie Dough Pieces", "Chocolate Chips", "Vanilla Base"],
+        "image":"../images/ice-cream-xtra2.svg"
+    }]
+}
